@@ -17,7 +17,7 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'aipolaris'
         GITHUB_ACCOUNT = 'AIpolaris'
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL_ID = 'c8a25ebca3fdb8949f6004f110fb1e8b984e28db'
+        SONAR_CREDENTIAL_ID = 'sonar-qube'
     }
 
     stages {
